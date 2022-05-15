@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... *a ton* and enjoying it! R, data cleaning, exploratory data analysis, various methods of regression analysis, probability theory, etc. The summer 2022 semester begins my deep dive into machine learning and project collaborations.
 - 👯 I’m looking to collaborate on ... projects that would allow me to demonstrate my skills and simultaneously enhance my abilities.
 - 🤔 I’m looking for help with ... gaining and deploying skills with R, specifically for reproducible research.
-- 📫 How to reach me: ... kxg679 at med dot miami dot edu
+- 📫 How to reach me: ... kxg679 at miami dot edu
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I'm a Registered Respiratory Therapist and United States Army veteran.
 
