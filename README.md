@@ -1,7 +1,6 @@
-### Hi there 👋 I'm a bioinformatics analyst & respiratory therapist.
+### Hi there 👋 I'm an aspiring biostatistician and completing my Master's degree at the University of Miami. I have 2 SAS certifications and also co-authored the `rUM` package in R.
 
-- 🔭 I’m currently working on ... improving SAS, R, and statistical skills.
-- 👯 I’m looking to collaborate on ... academic & journal-worthy research projects.
-- 📫 How to reach me: ... kxg679@med.miami.edu
+- 🔭 I’m currently working on ... SAS macro for case-control matching.
+- 📫 How to reach me: ... kylegrealis@icloud.com
 - ⚡ Fun fact: ... I'm a US Army veteran.
 
