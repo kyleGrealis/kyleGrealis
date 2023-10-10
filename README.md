@@ -8,7 +8,7 @@
       style="height: 30px;"
     />
   </a>
-  <a href="https://stackoverflow.com/users/17979043/kyleGralis" target="_blank">
+  <a href="https://stackoverflow.com/users/17979043/kyleGrealis" target="_blank">
     <img
       src="https://img.shields.io/badge/-kyleGrealis-darkgreen?style=for-the-badge&logo=stackoverflow&logoColor=white"
       alt="StackOverflow"
