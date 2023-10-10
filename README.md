@@ -1,3 +1,6 @@
+<div style="background-color: #807f7f; color: black !important;">
+
+
 ### Hi there 👋 I'm a Lead Research Analyst for the Department of Public Health Sciences, Division of Biostatistics, at the University of Miami. I speak R & SAS and peddle [`rUM`](https://cran.r-project.org/web/packages/rUM/index.html).
 
 <div id="badges" align="center">
@@ -31,7 +34,7 @@
 <hr>
 
 #### :hammer_and_wrench: Languages and Tools:
-<div>
+<div style="height: 60px !important; width: auto; background-color: #d3d3d3 !important;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40"/>
@@ -51,6 +54,9 @@
     
   </span>
 
+
+
+</div>
   <span  style="max-width: 90px !important; display: inline-block;">
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyleGrealis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
