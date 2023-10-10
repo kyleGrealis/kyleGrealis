@@ -29,7 +29,7 @@
 <hr>
 
 #### :hammer_and_wrench: Languages and Tools:
-<div style="height: 60px !important; width: auto; background-color: #d3d3d3 !important;">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40"/>
