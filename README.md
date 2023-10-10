@@ -16,6 +16,11 @@
     />
   </a>
   <!---
+  <img 
+    src="https://komarev.com/ghpvc/?username=kyleGrealis&style=flat-square&color=yellowgreen" 
+    alt=""
+    style="height: 30px;"
+    >
   <img
     src="https://komarev.com/ghpvc/?username=kyleGrealis&style=flat&color=yellowgreen"
     alt="GH-counter"
