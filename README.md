@@ -6,3 +6,7 @@
 - 📫 How to reach me: ... kylegrealis@icloud.com
 - ⚡ Fun fact: ... my dog looks like a cow.
 - non-</> stuff: I'm relearning French 🇫🇷, love to cook Mediterranean & Indian food, and have a growing collection of 🐸 things around my house. And, yes, I really do enjoy long Sunday walks with my wife ❤️
+
+
+<hr>
+<embed src="https://kylegrealis.shinyapps.io/cat5-power/" style="width:500px; height: 300px;">
