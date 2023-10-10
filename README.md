@@ -51,6 +51,11 @@
 
 <hr>
 
+#### 🚧 Some of my work:
+<iframe src="https://kylegrealis.shinyapps.io/cat5-power/" title="my-app" width="500px" height="400px"></frame>
+
+<hr>
+
 #### :fire: My Stats:
 <div>
   <span style="max-width: 90px !important; display: inline-block;">
