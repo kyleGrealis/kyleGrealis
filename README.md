@@ -51,8 +51,15 @@
 
 <hr>
 
-<!--
 #### 🚧 Some of my work:
+
+<a href="https://kylegrealis.shinyapps.io/cat5-power/" target="_blank">
+
+  <img src="https://github.com/kyleGrealis/kyleGrealis/assets/84798289/53d0f063-3d04-4df3-abe9-b055bbbd2bdf" width="550">
+  
+</a>
+
+<!--
 <iframe src="https://kylegrealis.shinyapps.io/cat5-power/" title="cat5-power-shiny" width="500px" height="400px"></frame>
 -->
 
