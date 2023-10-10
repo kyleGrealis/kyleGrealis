@@ -15,12 +15,13 @@
       style="height: 30px;"
     />
   </a>
+  <!---
   <img
     src="https://komarev.com/ghpvc/?username=kyleGrealis&style=flat&color=yellowgreen"
     alt="GH-counter"
     style="height: 30px;"
     >
-  
+  -->
 </div>
 
 
