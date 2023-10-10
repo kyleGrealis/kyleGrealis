@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm a Lead Research Analyst for the Department of Public Health Sciences, Division of Biostatistics, at the University of Miami. I speak R & SAS and peddle [`rUM`](https://cran.r-project.org/web/packages/rUM/index.html).
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kyle-grealis-044030180/" target="_blank">
     <img 
       src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
@@ -10,7 +10,7 @@
   </a>
   <a href="https://stackoverflow.com/users/17979043/kyle-g" target="_blank">
     <img
-      src="https://img.shields.io/badge/Stack-Overflow-green"
+      src="https://img.shields.io/badge/Stack-Overflow-darkgreen?style=for-the-badge&logo=stackoverflow&logoColor=white"
       alt="StackOverflow"
       style="height: 20px;"
     />
