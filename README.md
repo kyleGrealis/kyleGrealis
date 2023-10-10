@@ -9,4 +9,6 @@
 
 
 <hr>
-<embed src="https://kylegrealis.shinyapps.io/cat5-power/" style="width:500px; height: 300px;">
+<iframe src="https://kylegrealis.shinyapps.io/cat5-power/" width="100%" height="300">
+
+</iframe>
