@@ -72,14 +72,14 @@
 
 #### :fire: My Stats:
 <div>
-  <span style="max-width: 90px !important; display: inline-block;">
+  <span style="max-width: 90px !important; display: block; margin: auto;">
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kyleGrealis&theme=dark&background=000000)](https://git.io/streak-stats)
     
   </span>
 
 
-  <span  style="max-width: 90px !important; display: inline-block;">
+  <span  style="max-width: 90px !important; display: block; margin: auto;">
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyleGrealis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
