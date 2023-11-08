@@ -72,14 +72,15 @@
 
 #### :fire: My Stats:
 <div style="display: inline-block;">
-  <span style="display: inherit; max-width: 51%;">
+  
+  <span style="display: inherit; max-width: 49%; margin: auto;">
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kyleGrealis&theme=dark&background=000000)](https://git.io/streak-stats)
     
   </span>
 
 
-  <span  style="display: inherit; max-width: 49%;">
+  <span  style="display: inherit; max-width: 49%; margin: auto;">
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyleGrealis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
