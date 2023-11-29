@@ -40,7 +40,7 @@
 <hr>
 
 #### :hammer_and_wrench: Languages and Tools:
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="vscode" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40"/>
@@ -71,7 +71,7 @@
 
 
 #### :fire: My Stats:
-<div style="display: inline-block;">
+<div style="display: inline-block;" align="center">
   
   <span style="display: inherit; max-width: 49%; margin: auto;">
 
