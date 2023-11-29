@@ -56,7 +56,7 @@
 
 <div id="my-work" align="center">
   <img 
-    src="https://github.com/kyleGrealis/kyleGrealis/assets/84798289/53d0f063-3d04-4df3-abe9-b055bbbd2bdf" 
+    src="https://github.com/kyleGrealis/kyleGrealis/blob/main/app_pic.png" 
     alt="cat5-power-app"
     style="width: 550px"
   />
