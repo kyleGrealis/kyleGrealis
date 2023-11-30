@@ -54,19 +54,9 @@
 
 #### 🚧 Some of my work:
 
-<div id="my-work" align="center">
-  <img 
-    src="https://github.com/kyleGrealis/kyleGrealis/blob/main/app_pic.png" 
-    alt="cat5-power-app"
-    style="width: 550px"
-  />
-  <div>
-    <a href="https://kyleGrealis.shinyapps.io/cat5-power/" target="_blank">
-      Statistical Power Plotting Tool
-    </a>
-  </div>
-</div>
-
+| [![Statistical Power Plotting Tool](https://github.com/kyleGrealis/kyleGrealis/blob/main/app_pic.png)](https://kyleGrealis.shinyapps.io/category5/) | [![Penguin species predictor using {plumber} and {palmerpenguins}](https://github.com/kyleGrealis/kyleGrealis/blob/main/penguin-finder.png)](https://kyleGrealis.shinyapps.io/penguin-finder/) |
+|:---:|:---:|
+| [Statistical Power Plotting Tool](https://kyleGrealis.shinyapps.io/category5/) | [Penguin species predictor using {plumber} and {palmerpenguins}](https://kyleGrealis.shinyapps.io/penguin-finder/) |
 <hr>
 
 
