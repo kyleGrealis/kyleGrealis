@@ -56,7 +56,7 @@
 
 | [![Statistical Power Plotting Tool](https://github.com/kyleGrealis/kyleGrealis/blob/main/app_pic.png)](https://kyleGrealis.shinyapps.io/category5/) | [![Penguin species predictor using {plumber} and {palmerpenguins}](https://github.com/kyleGrealis/kyleGrealis/blob/main/penguin-finder.png)](https://kyleGrealis.shinyapps.io/penguin-finder/) |
 |:---:|:---:|
-| [Statistical Power Plotting Tool](https://kyleGrealis.shinyapps.io/category5/) | [Penguin species predictor using {plumber} and {palmerpenguins}](https://kyleGrealis.shinyapps.io/penguin-finder/) |
+| [Statistical Power Plotting Tool](https://kyleGrealis.shinyapps.io/category5/) | [IN DEVELOPMENT!! Penguin species predictor using {plumber} and {palmerpenguins}](https://kyleGrealis.shinyapps.io/penguin-finder/) |
 <hr>
 
 
