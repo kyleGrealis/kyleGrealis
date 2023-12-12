@@ -39,7 +39,7 @@
 
 <hr>
 
-#### :hammer_and_wrench: Languages and Tools:
+#### 🛠️ Languages and Tools:
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40"/>
@@ -60,7 +60,7 @@
 <hr>
 
 
-#### :fire: My Stats:
+#### 🔥 My Stats:
 <div style="display: inline-block;" align="center">
   
   <span style="display: inherit; max-width: 49%; margin: auto;">
