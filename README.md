@@ -34,7 +34,7 @@
 - 🌱 I'm learning ... how to improve my [Shiny](https://shiny.posit.co/) apps using 🦏 the [Rhino](https://rhinoverse.dev/#rhino) package, and interacting with [plumber](https://www.rplumber.io/) and REST APIs. 
 - ✍️ If you have suggestions that could improve my skillset, increase efficiency in my coding, or would like to collaborate please do not hesistate!
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kyleGrealis-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/kyle-grealis-044030180/))
-- non-💻 stuff: I'm relearning French 🇫🇷, love to 👨‍🍳 cook Mediterranean & Indian food, and have a growing collection of 🐸 things around my house. And, yes, I really do enjoy long Sunday walks with my wife ❤️
+- non-💻 stuff: I'm relearning French, love to 👨‍🍳 cook Mediterranean & Indian food, and have a growing collection of 🐸 things around my house. And, yes, I really do enjoy long Sunday walks with my wife ❤️
 
 
 <hr>
