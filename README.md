@@ -55,13 +55,15 @@
 
 #### 🚧 Some of my work:
 
+<iframe src="https://kylegrealis.github.io/feaster-balise-lab/"></iframe>
+
 | [![](https://github.com/kyleGrealis/kyleGrealis/blob/main/powerViz.png)](https://kyleGrealis.shinyapps.io/powerViz/) | [![](https://github.com/kyleGrealis/kyleGrealis/blob/main/epiMatch.png)](https://kyleGrealis.shinyapps.io/case-control-matching/) |
 |:---:|:---:|
 | [PowerViz: a statistical power plotting tool](https://kyleGrealis.shinyapps.io/powerViz/) | [EpiMatch: case-control matching made easy](https://kyleGrealis.shinyapps.io/case-control-matching/) |
 
-| [![Penguin species predictor using {plumber} and {palmerpenguins}](https://github.com/kyleGrealis/kyleGrealis/blob/main/penguin-finder.png)](https://kyleGrealis.shinyapps.io/penguin-finder/) | |
+| [![](https://github.com/kyleGrealis/kyleGrealis/blob/main/team_site.png)](https://kylegrealis.github.io/feaster-balise-lab/) | [![](https://github.com/kyleGrealis/kyleGrealis/blob/main/penguin-finder.png)](https://kyleGrealis.shinyapps.io/penguin-finder/) |
 
-| [IN DEVELOPMENT!! Penguin species predictor using {plumber} and {palmerpenguins}](https://kyleGrealis.shinyapps.io/penguin-finder/) | |
+| [Research Team](https://kylegrealis.github.io/feaster-balise-lab/) | [IN DEVELOPMENT!! Penguin species predictor using {plumber} and {palmerpenguins}](https://kyleGrealis.shinyapps.io/penguin-finder/) |
 <hr>
 
 
