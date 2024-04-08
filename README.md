@@ -55,7 +55,7 @@
 
 #### 🚧 Some of my work:
 
-| [![](https://github.com/kyleGrealis/kyleGrealis/blob/main/app_pic.png)](https://kyleGrealis.shinyapps.io/powerViz/) | |
+| [![](https://github.com/kyleGrealis/kyleGrealis/blob/main/powerViz.png)](https://kyleGrealis.shinyapps.io/powerViz/) | [![](https://github.com/kyleGrealis/kyleGrealis/blob/main/epiMatch.png)](https://kyleGrealis.shinyapps.io/case-control-matching/) |
 |:---:|:---:|
 | [PowerViz: a statistical power plotting tool](https://kyleGrealis.shinyapps.io/powerViz/) | [EpiMatch: case-control matching made easy](https://kyleGrealis.shinyapps.io/case-control-matching/) |
 
