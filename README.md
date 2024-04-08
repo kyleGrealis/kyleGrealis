@@ -43,6 +43,7 @@
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="vscode" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="40"/>
@@ -54,9 +55,13 @@
 
 #### 🚧 Some of my work:
 
-| [![Statistical Power Plotting Tool](https://github.com/kyleGrealis/kyleGrealis/blob/main/app_pic.png)](https://kyleGrealis.shinyapps.io/category5/) | [![Penguin species predictor using {plumber} and {palmerpenguins}](https://github.com/kyleGrealis/kyleGrealis/blob/main/penguin-finder.png)](https://kyleGrealis.shinyapps.io/penguin-finder/) |
+| [![](https://github.com/kyleGrealis/kyleGrealis/blob/main/app_pic.png)](https://kyleGrealis.shinyapps.io/powerViz/) | |
 |:---:|:---:|
-| [Statistical Power Plotting Tool](https://kyleGrealis.shinyapps.io/category5/) | [IN DEVELOPMENT!! Penguin species predictor using {plumber} and {palmerpenguins}](https://kyleGrealis.shinyapps.io/penguin-finder/) |
+| [PowerViz: a statistical power plotting tool](https://kyleGrealis.shinyapps.io/powerViz/) | [EpiMatch: case-control matching made easy](https://kyleGrealis.shinyapps.io/case-control-matching/) |
+
+| [![Penguin species predictor using {plumber} and {palmerpenguins}](https://github.com/kyleGrealis/kyleGrealis/blob/main/penguin-finder.png)](https://kyleGrealis.shinyapps.io/penguin-finder/) | |
+
+| [IN DEVELOPMENT!! Penguin species predictor using {plumber} and {palmerpenguins}](https://kyleGrealis.shinyapps.io/penguin-finder/) | |
 <hr>
 
 
