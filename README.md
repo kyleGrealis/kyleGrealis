@@ -30,8 +30,8 @@
 </div>
 
 
-- 🔭 I’m currently ... analyzing research data in substance use and mental health.
-- 🌱 I'm learning ... how to improve my [Shiny](https://shiny.posit.co/) apps using 🦏 the [Rhino](https://rhinoverse.dev/#rhino) package, and interacting with [plumber](https://www.rplumber.io/) and REST APIs. 
+- 🔭 I’m currently ... contributing to R projects (creating packages and online teaching tools) and coauthoring manuscripts summarizing months-long analyses of opioid epidemic related research.
+- 🌱 I'm learning ... how to translate from R to Python using online resources and any help I can get along the way. 
 - ✍️ If you have suggestions that could improve my skillset, increase efficiency in my coding, or would like to collaborate please do not hesistate!
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kyleGrealis-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/kyle-grealis-044030180/))
 - non-💻 stuff: I'm relearning French, love to 👨‍🍳 cook Mediterranean & Indian food, and have a growing collection of 🐸 things around my house. And, yes, I really do enjoy long Sunday walks with my wife ❤️
