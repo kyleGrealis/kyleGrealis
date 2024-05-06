@@ -30,7 +30,7 @@
 </div>
 
 
-- 🔭 I’m currently ... contributing to R projects (creating packages and online teaching tools) and coauthoring manuscripts summarizing months-long analyses of opioid epidemic related research.
+- 🔭 I’m currently ... reading some really cool papers about gradient boosting ML models.
 - 🌱 I'm learning ... how to translate from R to Python using online resources and any help I can get along the way. 
 - ✍️ If you have suggestions that could improve my skillset, increase efficiency in my coding, or would like to collaborate please do not hesistate!
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kyleGrealis-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/kyle-grealis-044030180/))
