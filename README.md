@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a Lead Research Analyst for the Department of Public Health Sciences, Division of Biostatistics, at the University of Miami. I speak R & SAS and peddle [`rUM`](https://cran.r-project.org/web/packages/rUM/index.html).
+### Hi there 👋 I'm a Lead Research Analyst for the Department of Public Health Sciences, Division of Biostatistics, at the University of Miami. I speak R & Python and peddle [`rUM`](https://cran.r-project.org/web/packages/rUM/index.html).
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kyle-grealis-044030180/" target="_blank">
