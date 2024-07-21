@@ -31,7 +31,7 @@
 
 
 - 🔭 I’m currently ... researching opioid addiction and, in my free time, working on a R package that aggregates NASCAR race results data.
-- 🌱 I'm learning ... how to level up my knowledge of Python to match my abilities in R. 
+- 🌱 I'm learning ... FastAPI and reading [DevOps for Data Science](https://do4ds.com). 
 <!-- - ✍️ If you have suggestions that could improve my skillset, increase efficiency in my coding, or would like to collaborate please do not hesistate! -->
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kyleGrealis-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/kyle-grealis-044030180/))
 - non-💻 stuff: I'm relearning French, love to 👨‍🍳 cook Mediterranean & Indian food, and have a growing collection of 🐸 things around my house. And, yes, I really do enjoy long Sunday walks with my wife ❤️
@@ -48,15 +48,6 @@
   
 </div>
 
-<hr>
-
-#### 🚧 Some of my work:
-
-| [![](https://github.com/kyleGrealis/kyleGrealis/blob/main/powerViz.png)](https://kyleGrealis.shinyapps.io/powerViz/) | [![](https://github.com/kyleGrealis/kyleGrealis/blob/main/epiMatch.png)](https://kyleGrealis.shinyapps.io/case-control-matching/) |
-|:---:|:---:|
-| [PowerViz: a statistical power plotting tool](https://kyleGrealis.shinyapps.io/powerViz/) | [EpiMatch: case-control matching made easy](https://kyleGrealis.shinyapps.io/case-control-matching/) |
-| [![](https://github.com/kyleGrealis/kyleGrealis/blob/main/team_site.png)](https://kylegrealis.github.io/feaster-balise-lab/) | [![](https://github.com/kyleGrealis/kyleGrealis/blob/main/penguin-finder.png)](https://kyleGrealis.shinyapps.io/penguin-finder/) |
-| [My Research Team's website](https://kylegrealis.github.io/feaster-balise-lab/) | [IN DEVELOPMENT!! Penguin species predictor using {plumber} and {palmerpenguins}](https://kyleGrealis.shinyapps.io/penguin-finder/) |
 <hr>
 
 
