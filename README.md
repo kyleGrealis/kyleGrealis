@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a Lead Research Analyst for the Department of Public Health Sciences, Division of Biostatistics, at the University of Miami. I speak R & Python and peddle [`rUM`](https://cran.r-project.org/web/packages/rUM/index.html).
+### Hi there 👋 I'm a Lead Research Analyst for the Department of Public Health Sciences, Division of Biostatistics, at the University of Miami.
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kyle-grealis-044030180/" target="_blank">
@@ -30,11 +30,11 @@
 </div>
 
 
-- 🔭 I’m currently ... researching opioid addiction and, in my free time, working on a R package that aggregates NASCAR race results data.
-- 🌱 I'm learning ... FastAPI and reading [DevOps for Data Science](https://do4ds.com). 
+- 🔭 I’m currently ... researching opioid addiction and using `tidymodels`.
+- 🌱 I'm ~~learning~~ reading ... [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar, and I cannot recommend it enough if you work in the academic & ML arena. 
 <!-- - ✍️ If you have suggestions that could improve my skillset, increase efficiency in my coding, or would like to collaborate please do not hesistate! -->
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kyleGrealis-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/kyle-grealis-044030180/))
-- non-💻 stuff: I'm relearning French, love to 👨‍🍳 cook Mediterranean & Indian food, and have a growing collection of 🐸 things around my house. And, yes, I really do enjoy long Sunday walks with my wife ❤️
+- non-💻 stuff: I'm a US Army veteran, avid runner, and actuellement j'apprends le francais.
 
 
 <hr>
