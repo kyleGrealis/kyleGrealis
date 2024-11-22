@@ -3,6 +3,7 @@
 - 🔭 I’m currently ... researching opioid addiction and using `tidymodels`.
 - 🌱 I'm reading ... [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar, and I cannot recommend it enough if you work in the academic & ML arena. 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kyleGrealis-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/kyle-grealis-044030180/))
+- Ce qui est bon pour nous est bon pour moi!
 
 <hr>
 
