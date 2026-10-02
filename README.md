@@ -1,11 +1,13 @@
-### Hi there 👋 I'm a Lead Research Analyst for the Department of Public Health Sciences, Division of Biostatistics, at the University of Miami.
+### Hi there 👋
 
-- 🔭 I’m currently ... working on a variety of public health research projects, from diabetes to cancer outcomes.
-- 🌱 I'm learning ... modeling with complex structrured survey data.
-- 💻 My skills ... R & R package development, Quarto, SAS, and HTML & CSS
-- 🤍 My hobbies ... USATF certified official, recreational runner, Linux tinkering (NixOS ❄️) 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kyleGrealis-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/kyle-grealis-044030180/))
-- Ce qui est bon pour nous est bon pour moi!
+Data and R things by day; NixOS tinkerer and agentic workflows explorer by night.
+
+- 🔭 **Research:** Epidemiological modeling, diabetes outcomes, and complex survey designs.
+- 💻 **Stack:** R & R packages, Nix / NixOS ❄️, Quarto, reproducible workflows, and LLM agent fleets.
+- ⏱️ **Track & Road:** USATF certified official, recreational runner, and menace on inline blades.
+- 📫 **Reach me:** `kyle@kylegrealis.com` or [kyleGrealis.com](https://kylegrealis.com)
+
+*Ce qui est bon pour nous est bon pour moi!*
 
 <hr>
 
